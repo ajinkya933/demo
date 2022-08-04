@@ -1,0 +1,56 @@
+[
+    {
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": "On whos life is the movie Roketery based on ?"}
+    },
+    {
+        "type": "image",
+        "image_url": "https://en.wikipedia.org/wiki/Nambi_Narayanan#/media/File:Nambi_Narayanan.jpg",
+        "alt_text": "inspiration"
+    },
+    {
+        "type": "actions",
+        "elements": [
+            {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Nambi Narayan"
+                },
+                "value": "click_me_123",
+                "action_id": "actionId-Q20"
+            }
+        ]
+    },
+    {
+        "type": "actions",
+        "elements": [
+            {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "APJ Abdul Kalam"
+                },
+                "value": "click_me_123",
+                "action_id": "actionId-Q22"
+            }
+        ]
+    },
+    {
+        "type": "actions",
+        "elements": [
+            {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Bill Clinton"
+                },
+                "value": "click_me_123",
+                "action_id": "actionId-Q22"
+            }
+        ]
+    }
+]
+
+
+
